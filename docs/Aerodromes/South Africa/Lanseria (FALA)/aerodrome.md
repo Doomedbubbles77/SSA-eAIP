@@ -4,7 +4,7 @@ Lanseria International Airport is a privately owned international airport locate
 
 ## Aerodrome Details
 
-|  Chief Dawid Stuurman Intl   |                           |
+|  Lanseria Intl   |                           |
 | :---------: | :----------------------------------: |
 | ICAO | FALA |
 | IATA | HLA |
@@ -15,7 +15,7 @@ Lanseria International Airport is a privately owned international airport locate
 
 ## Transition Levels
 
-The following table should only be to determine the Transition Level for Port Elizabeth (FAPE).
+The following table should only be to determine the Transition Level for Lanseria (FALA).
 
 | QNH Range | TL |
 | :---------: | :---------: |
