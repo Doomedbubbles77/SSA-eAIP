@@ -99,10 +99,14 @@ By default, all aircraft should be taxied to the full length holding point unles
 | XX | XX | XXXX |
 | XX | XX | XXXX |
 
-### Taxi Restrictions 
+### Taxiway and Apron Restrictions
 
-**Please speak about what Code Aircraft the airport can accomodate**
+!!! warning 
+    Aircraft above Code X should be advised that there is no guranteed wingtip clearance provided / CODE F aircraft should be instructed to taxi via taxiway X and X
 
+| Aprons | Restricted to |
+| :---------: | :---------: |
+| - | - |
 
 ### Non-movement Areas
 
