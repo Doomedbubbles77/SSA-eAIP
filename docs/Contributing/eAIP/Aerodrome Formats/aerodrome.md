@@ -16,7 +16,7 @@
 
 The following table should only be to determine the Transition Level for "Airport Name" ("ICAO").
 
-**TL reference table can be found [here](https://eaip2.vatssa.com/General/common/ssa-transition-table/).
+**TL reference table can be found [here](https://eaip2.vatssa.com/General/common/ssa-transition-table/).**
 | QNH Range | TL |
 | :---------: | :---------: |
 | 946 - 962   | XX |
