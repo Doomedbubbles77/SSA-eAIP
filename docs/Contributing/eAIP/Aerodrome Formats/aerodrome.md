@@ -1,6 +1,6 @@
 # Aerodrome Data
 
-"Airport Name" International Airport (IATA: XXX, ICAO: XXX) 
+"Airport Name" Airport (IATA: XXX, ICAO: XXX) 
 
 ## Aerodrome Details
 
