@@ -4,7 +4,7 @@ Brazzaville Maya Maya Airport (IATA: BZV, ICAO: FCBB) is the international airpo
 
 ## Aerodrome Details
 
-|  "Airport Name"    |                           |
+|  Brazzaville Maya Maya    |                           |
 | :---------: | :----------------------------------: |
 | ICAO | FCBB |
 | IATA | BZV |
