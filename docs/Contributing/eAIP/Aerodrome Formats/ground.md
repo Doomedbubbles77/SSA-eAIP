@@ -50,6 +50,13 @@ Controllers should issue these stands rather than any terminal ones.
 
 ### Taxiway and Apron Restrictions
 
+!!! warning 
+    Aircraft above Code X should be advised that there is no guranteed wingtip clearance provided / CODE F aircraft should be instructed to taxi via taxiway X and X
+
+| Aprons | Restricted to |
+| :---------: | :---------: |
+| - | - |
+
 | Taxiways | Restricted to |
 | :---------: | :---------: |
 | Taxiway X | Code A (max 15m wingspan) |
@@ -72,11 +79,9 @@ At "Airport Name", the following stands can be used in conjuction with each othe
 | XX | XX | 
 | XX | XX | 
 
-
 ## Pushback Procedures
 
 SMC controllers should remain vigilant at all times.
-
 
 | Runway in use | Direction |
 | :---------: | :---------: |
@@ -103,19 +108,9 @@ By default, all aircraft should be taxied to the full length holding point unles
 | XX | XX | XXXX |
 | XX | XX | XXXX |
 
-### Taxiway and Apron Restrictions
-
-!!! warning 
-    Aircraft above Code X should be advised that there is no guranteed wingtip clearance provided / CODE F aircraft should be instructed to taxi via taxiway X and X
-
-| Aprons | Restricted to |
-| :---------: | :---------: |
-| - | - |
-
 ### Non-movement Areas
 
 **Only applicable at certain airports**
-
 
 ### Hotspots
 
