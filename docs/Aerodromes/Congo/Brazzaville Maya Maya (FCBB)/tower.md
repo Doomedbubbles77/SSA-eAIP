@@ -1,21 +1,16 @@
 # Tower
 
-The responsibility of Tower at "Airport Name" falls to the dedicated Tower ATS unit, "Airport Name Tower" (XXXX_TWR) on XXX.XXX. TWR will be responsible for the movements on the runway, as well as the responsibility of ensuring safety amongst VFR aircraft operating in the circuit or within the "Airport Name" CTR from GND - XXXXft MSL.
-
-!!! note
-    As the frequency for departure is already handed in the IFR clearance, handoffs to the next ATS unit ("Call Sign" Approach / Radar ) is not required with departing aircraft.
+The responsibility of Tower at Brazzaville falls to the dedicated Tower ATS unit, Brazzaville Tower (FCBB_TWR) on 118.700. TWR will be responsible for the movements on the runway, as well as the responsibility of ensuring safety amongst VFR aircraft operating in the circuit or within the Brazzaville CTR from GND - 3000ft MSL.
 
 ## Visual Flight Rules (VFR) Aircraft
 
 | Type | Circuit Altitude |
 | :---------: | :---------: |
-| Jet | XXXXft |
-| Turbine / Piston | XXXXXft |
-| Helicopter | XXXXft |
+| Jet | 3000ft |
+| Turbine / Piston | 3000ft |
+| Helicopter | 3000ft |
 
-**Not always available in some AIPs.**
-
-* All circuits are conducted left hand normally, but may be conducted right hand at the discretion of the Tower controller.   
+ - All circuits are conducted left hand normally, but may be conducted right hand at the discretion of the Tower controller.   
 
 !!! info "Circuit Clearance"
     ZSABC, hold position, after departure Runway XX, L / R hand circuits, not above XXXXft, report L / R downwind Runway XX.
@@ -25,38 +20,21 @@ The responsibility of Tower at "Airport Name" falls to the dedicated Tower ATS u
 
 ### VRP Map
 
-**Please create a VRP Map**
+![alt text](FCBB-VRPs.png)
 
-### VFR Runway XX Departures / Arrivals
+### VFR Departures
 
-| Departure | Report Point |
-| --------- |  --------- |
-| XX | XX |
-| XX | XX |
+There are no standard VFR routings for departures out of FCBB. 
 
-| Arrival | Report Point |
-| --------- |  --------- |
-| XX | XX |
-| XX | XX |
+!!! info "Exit Clearance"
+    ZSABC, hold position, after departure Runway XX, cleared to exit the Brazzaville CTR to the N / S / E / W, not above altitude 3000ft report leaving the CTR / report "VRP".
 
-**Please create a VFR Map**
+### VFR Arrivals
 
-### VFR Runway XX Departures / Arrivals
+![alt text](FCBB-VFR.png)
 
-| Departure | Report Point |
-| --------- |  --------- |
-| XX | XX |
-| XX | XX |
-
-| Arrival | Report Point |
-| --------- |  --------- |
-| XX | XX |
-| XX | XX |
-
-**Please create a VFR Map**
-
-!!! info "Exit Clearance via STD VFR Departure Routing"
-    ZSABC, hold position, after departure Runway XX, comply with the XXXXXXXXXX XX departure, not above XXXXft, report abeam / overhead XXX XXXXXXXXX XXXXX."
+!!! info
+    All standard VFR routes will require pilots to be given further instructions to join the circuit. None of the standard routings favour a certain runway.
 
 ## Wake Seperation
 

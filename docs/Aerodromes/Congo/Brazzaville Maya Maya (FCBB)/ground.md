@@ -1,6 +1,7 @@
 # Ground
 
-The responsibility of SMC at "Airport Name" falls to the dedicated Ground ATS unit, "ATS Callsign" (XXXX_GND) on XXX.XXX MHz. SMC will be responsible for the aerodrome movements outside of the runway, including pushback and taxi to/from the runway. SMC will also be responsible for the initial call of VFR aircraft looking for start and taxi to the runway. 
+!!! info
+    Brazzaville does not have a dedicated Ground frequency, as such all Ground responsibilities are assumed by Brazzavilla Tower (FCBB_TWR). Under no circumstances should a FCBB_GND position ever be opened without prior approval from staff.
 
 ## Visual Flight Rules (VFR) Aircraft.
 
@@ -19,59 +20,43 @@ Once this data has been received by the SMC controller, the controller shall the
 
 ## Restrictions
 
-**Please talk about the relevant restirctions in regard to aircraft wingspan. You must mention Code F requirments if the airport is able to accomodate it**
+Brazzaville is able to accommodate up to Code F aircraft.
 
 !!! info "VFR Phraseology"
     "BAW09P, Confirm you are able to keep clear of the Bonair A350 ahead of you?"
 
+
 ### Stand Restrictions
 
-The best suited Code F stands are: **Only use this section if the airport is CODE F compliant**
-
-- B17
-
-- B20
-
-- B23
-
-- B26
-
-- B29
-
-Controllers should issue these stands rather than any terminal ones.
-
-**MARS**
-
-**Only use is the airport has MARS**
-
-MARS — Multiple Aircraft Ramp System — is an airport gate design that allows a single aircraft parking stand to accommodate more than one type or size of aircraft.
-
-At "Airport Name", the following stands can be used in conjuction with each other, up to a maximum of Code X (max XXm wingspan) aircraft on them.
-| Stands | Blocks off Stand |
+| Stands | Restricted To |
 | :---------: | :---------: |
-| XX | XX | 
-| XX | XX | 
-| XX | XX | 
-| XX | XX | 
+| 2 - 5 | Code F (max 80m wingspan) |
 
+### Taxiway and Apron Restrictions
+
+| Aprons | Restricted to |
+| :---------: | :---------: |
+| Commerical Apron | Code F (max 80m wingspan) |
+
+| Taxiways | Restricted to |
+| :---------: | :---------: |
+| Taxiway M1 | Code C (max 36m wingspan) |
+| Taxiway G and M2 | Code E (max 65m wingspan) |
+| Taxiways A, B, C, D, E, F, J1, J2, and T | Code F (max 80m wingspan) |
 
 ## Pushback Procedures
 
 SMC controllers should remain vigilant at all times.
 
-
 | Runway in use | Direction |
 | :---------: | :---------: |
-| XX | N / S / W / E  |
-| XX | N / S / W / E  |
-| XX | N / S / W / E  |
-| XX | N / S / W / E  |
-
+| 05 | NE |
+| 23 | NE |
 
 **An aircraft must be squawking their assigned ASSR code provided in the clearance before pushback clearance is issued. If this is not the case, the SMC controller must instruct the pilot to do so BEFORE any push clearance is issued.**
 
 !!! info "Pushback Phraseology"
-    "(callsign), push and start approved, face N / S / W / E , QNH (QNH)."
+    "(callsign), push and start approved, face North East , QNH (QNH)."
 
 ## Taxi Procedures
 
@@ -79,34 +64,17 @@ By default, all aircraft should be taxied to the full length holding point unles
 
 | Runway in use | Intersection | TORA |
 | :---------: | :---------: | :---------: |
-| XX | XX | XXXX | 
-| XX | XX | XXXX |
-| XX | XX | XXXX |
-| XX | XX | XXXX |
-| XX | XX | XXXX |
+| 05 | Full Length | 3300 | 
+| 23 | Full Length | 3300 |
 
-### Taxi Restrictions 
-
-**Please speak about what Code Aircraft the airport can accomodate**
-
-
-### Non-movement Areas
-
-**Only applicable at certain airports**
-
-
-### Hotspots
-
-**Only applicable at certain airports**
-
-Precision approach holding points are established at XX. During low visibility procedures (LVP) aircraft are to be instructed to hold short of these holding points. If the aircraft does not read these back clearly or the controller is unsure, the controller should confirm with the aircraft.
-
+!!! warning "Code F Taxi"
+    All Code F aircraft at to taxi to stands 2 - 5 via B, E and J2.
 
 ### Arriving Aircraft
-Upon arrival into "Airport Name", inbound aircraft are to provide their aircraft registration (tail number) and their parking bay (stand number) that they desire. You must check that their requested stand is in compliance with the restrictions listed above. If so, then the aircraft can be instructed to taxi to the bay. If not, ask the pilot for a different stand, or feel free to assign one yourself.
+Upon arrival into Brazzaville, inbound aircraft are to provide their parking bay (stand number) that they desire. You must check that their requested stand is in compliance with the restrictions listed above. If so, then the aircraft can be instructed to taxi to the bay. If not, ask the pilot for a different stand, or feel free to assign one yourself.
 
 !!! info "Pilot Reporting Bay Number"
-    SAA233: "SAA233, we are ZS-SZF looking for Bay XX."
+    SAA233: "SAA233, looking for Bay XX."
 
 !!! info "Taxiing to the Bay"
-    XXXX_GND: "SAA233, taxi via X and X to the bay.
+    FCBB_TWR: "SAA233, taxi via X and X to the bay.
