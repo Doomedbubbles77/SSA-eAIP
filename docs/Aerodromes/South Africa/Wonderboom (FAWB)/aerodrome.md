@@ -1,66 +1,62 @@
 # Aerodrome Data
 
-"Airport Name" International Airport (IATA: XXX, ICAO: XXX) 
+Wonderboom Airport (IATA: PRY, ICAO: FAWB) is an airport in Wonderboom, north of Pretoria, South Africa.
 
 ## Aerodrome Details
 
-|  "Airport Name"    |                           |
+|  Wonderboom    |                           |
 | :---------: | :----------------------------------: |
-| ICAO | XXXX |
-| IATA | XXX |
-| Elevation | XXXft |
-| Transition Altitude | XXXXXft |
+| ICAO | FAWB |
+| IATA | PRY |
+| Elevation | 4095ft |
+| Transition Altitude | 8000ft |
 | Transition Level | by ATC (see TL table) |
-| Mag Variation | XXº W |
+| Mag Variation | 18º W |
+
 ## Transition Levels
 
-The following table should only be to determine the Transition Level for "Airport Name" ("ICAO").
+The following table should only be to determine the Transition Level for Wonderboom (FAWB).
 
-**TL reference table can be found [here](https://eaip2.vatssa.com/General/common/ssa-transition-table/).
 | QNH Range | TL |
 | :---------: | :---------: |
-| 946 - 962   | XX |
-| 963 - 979   | XX |
-| 980 - 996   | XX |
-| 997 - 1013  | XX |
-| 1014 - 1029 | XX |
-| 1030 - 1046 | XX |
-| 1047 - 1099 | XX |
+| 995 - 1013 | 95 |
+| 1014 - 1031 | 90 |
+| 1032 - 1049 | 85 |
+| 1050 - 1060 | 80 |
 
 ## Declared Distances
 
 | Runway | Course | TORA | TODA | ASDA | LDA | Remarks |
 | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: |
-| XX    | XXXº    | XXXX     | XXXX     | XXXX     | XXXX    | - |
-| XX    | XXXº    | XXXX     | XXXX     | XXXX     | XXXX    | - |
-| XX    | XXXº    | XXXX     | XXXX     | XXXX     | XXXX    | - |
-| XX    | XXXº    | XXXX     | XXXX     | XXXX     | XXXX    | - |
+| 11    | 111º    | 1828     | 1978     | 1828     | 1828    | - |
+| 29    | 291º    | 1828     | 1978     | 1828     | 1828    | - |
+| 06    | 063º    | 1267     | 1342     | 1267     | 1267    | - |
+| 24    | 243º    | 1267     | 1342     | 1267     | 1267    | - |
 
 ## Radio Navigation & Landing Aids
 
 | Type | ID | Frequency | Remarks | 
 | :---------: | :---------: | :---------: | :---------: |
-| XXX XXX | XXX | XXX.XXX MHZ | - | 
-| XXX XXX | XXX | XXX.XXX MHZ | - | 
-| XXX XXX | XXX | XXX.XXX MHZ | - |
-| XXX XXX | XXX | XXX.XXX MHZ | - | 
+| VOR | DPV | 112.200 MHZ | - | 
+| DME | DPV | CH 59X | - | 
 
 ## Aprons 
 
 | Apron | Stands | Entry/Exit Point | Remarks |
 | :---------: | :---------: | :---------: | :---------: |
-| Apron X | XX - XX | Twy X | - |
-| Apron X | XX - XX | Twy X | - |
-| GA Apron | XX - XX | Twy X | - |
+| Apron A | - | Twy A, D1 and B1 | GA Apron |
+| Apron B | B1 - B4 | Twy B1 and C2 | - |
+| Apron C | - | Twy C2 | - |
 
 ## ATS Frequencies
 
 | Position    | Callsign | Frequency | Remarks |
 | :---------: | :---------: | :---------: | :---------: |
-| "ICAO"_ATIS  | "Airport Name" ATIS | XXX.XXX   | - |
-| "ICAO"_DEL   | "Airport Name" Delivery | XXX.XXX   | - |
-| "ICAO"_GND   | "Airport Name" "Ground / Apron"| XXX.XXX0   | - |
-| "ICAO"_TWR   | "Airport Name" Tower| XXX.XXX   | - |
-| "ICAO"_APP   | "Airport Name" "Approach / Radar" | XXX.XXX   | - |
-| "ICAO"_CTR   | "Airport Name" "Area / Centre / Radio" | XXX.XXX   | - |
-
+| FAWB_GND   | Wonderboom Ground | 120.600 | - |
+| FAWB_TWR   | Wonderboom Tower| 118.350 | - |
+| FAOR_APP   | Johannesburg Radar | 124.500 | - |
+| FAOR_W_APP | Johannesburg Radar | 123.700 | - |
+| FAJA_CTR   | Johannesburg Area     | 134.400 | Frequency can be used for FAJA_N or FAJA_NE |
+| FAJA_NW_CTR    | Johannesburg Area     | 126.700 | -                   |
+| FAJA_SW_CTR    | Johannesburg Area     | 128.300 | -                   |
+| FAJA_SE_CTR    | Johannesburg Area     | 132.150 | -                   |
