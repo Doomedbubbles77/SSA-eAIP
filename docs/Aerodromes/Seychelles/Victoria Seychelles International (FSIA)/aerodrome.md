@@ -52,4 +52,4 @@ The following table should only be to determine the Transition Level for Victori
 | :---------: | :---------: | :---------: | :---------: |
 | FSIA_TWR   | Seychelles Tower| 118.300   | - |
 | FSIA_APP   | Seychelles Approach | 119.700   | - |
-| FSSS_CTR   | Seychelles Control | 120.200   | - |
+| FSSS_CTR   | Seychelles Flight | 120.200   | - |
