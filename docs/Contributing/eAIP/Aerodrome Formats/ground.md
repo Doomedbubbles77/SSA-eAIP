@@ -122,6 +122,8 @@ Precision approach holding points are established at XX. During low visibility p
 ### Arriving Aircraft
 Upon arrival into "Airport Name", inbound aircraft are to provide their aircraft registration (tail number) and their parking bay (stand number) that they desire. You must check that their requested stand is in compliance with the restrictions listed above. If so, then the aircraft can be instructed to taxi to the bay. If not, ask the pilot for a different stand, or feel free to assign one yourself.
 
+**Change to ICAO where relevant [ICAO](https://eaip2.vatssa.com/General/phraseology/icao/)** REMOVE
+
 !!! info "Pilot Reporting Bay Number"
     SAA233: "SAA233, we are ZS-SZF looking for Bay XX."
 
