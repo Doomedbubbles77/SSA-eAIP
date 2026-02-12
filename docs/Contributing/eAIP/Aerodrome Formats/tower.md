@@ -4,6 +4,8 @@ The responsibility of Tower at "Airport Name" falls to the dedicated Tower ATS u
 
 "Airport name" does not have a dedicated Tower frequency, as such all Tower responsibilities are assumed by "ATS Callsign" (XXXX_APP). Under no circumstances should XXXX_TWR ever be opened without prior approval from staff.
 
+**"ICAO" CTR Altitude - XXXXft.**
+
 **Remove the unsuitable one**.
 
 **Remove if outside of FASA.**
