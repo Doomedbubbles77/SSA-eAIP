@@ -6,6 +6,8 @@ The responsibility of Tower at "Airport Name" falls to the dedicated Tower ATS u
 
 **Remove the unsuitable one**.
 
+**Remove if outside of FASA.**
+
 !!! note
     As the frequency for departure is already handed in the IFR clearance, handoffs to the next ATS unit ("Call Sign" Approach / Radar ) is not required with departing aircraft.
 
