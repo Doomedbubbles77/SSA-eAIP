@@ -37,6 +37,8 @@
 
 ## Phraseology
 
+**Change to ICAO where relevant [ICAO](https://eaip2.vatssa.com/General/phraseology/icao/)**
+
 **The passing altitude to be issued in clearances is XXXXft.**
 
 SID
