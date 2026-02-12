@@ -84,6 +84,8 @@ The responsibility of Tower at "Airport Name" falls to the dedicated Tower ATS u
 
 ## Takeoff Phraseology
 
+**Change to ICAO where relevant [ICAO](https://eaip2.vatssa.com/General/phraseology/icao/)** REMOVE
+
 !!! info "Takeoff (Full Length)"
     ZSABC, Runway XX full length, wind 080 degrees at 9 knots, cleared for takeoff, bye bye.
 
