@@ -57,7 +57,10 @@ The responsibility of Tower at Victoria Seychelles International falls to the de
 ## Takeoff Phraseology
 
 !!! info "Takeoff Clearance"
-    KQA12W, Runway XX, wind 080 degrees at 9 knots, cleared for takeoff, bye bye.
+    KQA12W, Runway XX, wind 080 degrees at 9 knots, cleared for takeoff, report airborne.
+
+!!! info "Takeoff (Intersection)"
+    KQA12W, Runway XX via XX, wind 080 degrees at 9 knots, cleared for takeoff, report airborne.
 
 !!! info "Handoff"
     KQA12W, contact Seychelles Approach 119.700.
