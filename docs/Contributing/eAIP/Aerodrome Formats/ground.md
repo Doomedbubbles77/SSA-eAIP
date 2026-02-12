@@ -23,7 +23,7 @@ Once this data has been received by the SMC controller, the controller shall the
 
 ## Restrictions
 
-**Please talk about the relevant restirctions in regard to aircraft wingspan. You must mention Code F requirments if the airport is able to accomodate it**
+"Airport Name" is only able to accomodate up to Code X aircraft.
 
 !!! info "VFR Phraseology"
     "BAW09P, Confirm you are able to keep clear of the Bonair A350 ahead of you?"
