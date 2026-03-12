@@ -1,4 +1,4 @@
-# "Airport Name" (ICAO)
+# Cape Town International Airport (FACT)
 
 *Pilots taking part in events that depart from or arrive at FACT should make themselves familiar with this briefing page as well as with all existing charts.*
 
