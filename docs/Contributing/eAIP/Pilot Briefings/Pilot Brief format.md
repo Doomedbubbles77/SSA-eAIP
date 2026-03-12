@@ -8,6 +8,12 @@
 
 - The airport has runway “Runway numbers”
 
+## Charts
+
+- “ICAO” does not have any charts publicly available.  **OR**
+- AIP Source  
+- ChartFox
+  
 ## Frequencies
 
 | Position    | Callsign           | Frequency (MHz) | Remarks |
@@ -16,12 +22,6 @@
 | XXXX_DEL   | "Airport Name" Delivery | XXX.XXX         | -       |
 | XXXX_GND   | "Airport Name" Ground   | XXX.XXX         | -       |
 | XXXX_TWR   | "Airport Name" Tower    | XXX.XXX          | -       |
-
-## Charts
-
-- “ICAO” does not have any charts publicly available.  **OR**
-- AIP Source  
-- ChartFox
 
 ## Departure Briefing
 
