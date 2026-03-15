@@ -21,7 +21,7 @@ Our resources page, where you can find the Audio for VATSIM download link can be
 
 ## Connecting and Listening to ATC
 
-- Open TrackAudio, if setup correctly and connected to VATSIM you will see a green 'CONNECT' button.
+- Open Audio for VATSIM, if setup correctly and connected to VATSIM you will be able to connect by pressing the 'Connect' button.
 - Once connected, press the `+` button to Add a Station.
 ![TrackAudio Observing 2 - Adding a Station](../img/TrackAudioObserving-2.png)
 - Type in the station you want to observe, in this case we have `FACT_GND`.
